@@ -1,0 +1,5 @@
+{
+  "name": "Bible Reading Tracker",
+  "description": "A progress tracker for reading the Bible, with start/end dates, overall progress, and chapter-by-chapter tracking.",
+  "requestFramePermissions": []
+}
